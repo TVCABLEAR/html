@@ -1,18 +1,443 @@
-<!DOCTYPE html> 
 
-<html xmlns="http://www.w3.org/1999/xhtml";> 
-<head runat="server"> 
-    <title></title> 
-    <style type="text/css"> 
-        html, body {margin:0; padding:0;height: 100%;} 
-        form, iframe { margin:0; padding:0; height:100%; width:100%; display:block;border:none; } 
-    </style> 
-</head> 
-<body> 
-    <form id="form1" runat="server" > 
-        <iframe id="pdf" runat="server" frameborder="0"></iframe> 
-    </form> 
-</body> 
-</html> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>FullTeve - Mejores lista canales M3U</title>
+        <meta name="description"
+          content="Las mejores listas de canales M3U, convierte tus listas de pastebin para SSIPTV">
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    
+    <!-- Custom styles for this template -->
+    <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <link href="/public/css/sticky-footer.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+                    <div id="navbar">
+                        <nav class="navbar navbar-default" role="navigation">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse"
+                                        data-target="#bs-example-navbar-collapse-1">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="/">FULLTEVE</a>
+                            </div>
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav">
+                                    <li class="active"><a href="http://fullteve.com/">Inicio</a></li>
+                                    <li><a href="http://fullteve.com/converter/new">Convertidor</a></li>
+                                </ul>
+                                <div class="col-sm-3 col-md-3">
+                                    <form action="/search/" method="post" class="navbar-form"
+                                          role="search">
+                                        <div class="input-group">
+                                            <input class="form-control" placeholder="Buscar pelicula,canal"
+                                                   value="" name="q" type="text">
+                                            <div class="input-group-btn">
+                                                <button class="btn btn-default" type="submit"><i
+                                                            class="glyphicon glyphicon-search"></i></button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                        <div class="panel-body">
+        <div class="pull-right">
+            <div class="btn-group">
+                <button type="button" class="btn btn-success btn-filter" data-target="iptv">Iptv
+                </button>
+                <button type="button" class="btn btn-warning btn-filter" data-target="peliculas">
+                    Peliculas
+                </button>
+                <button type="button" class="btn btn-danger btn-filter" data-target="series">
+                    Series
+                </button>
+                <button type="button" class="btn btn-default btn-filter" data-target="all">Todos
+                </button>
+            </div>
+        </div>
+        <p class="clearfix"></p>
+        <div class="table-container">
+            <table class="table table-filter">
+                <tbody>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/8">NineIPTV</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Canales general</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/9">Fluxus TV</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Canales TV</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="peliculas">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/15">Nibiru TV</a>
+                                        <span class="pull-right pagado">(peliculas
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Peliculas</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="peliculas">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/16">Fluxus Peliculas</a>
+                                        <span class="pull-right pagado">(peliculas
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Peliculas y series</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/19">G67 Canales TV</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">https://www.facebook.com/G67IPTV/</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="series">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/21">Dragon Ball Super</a>
+                                        <span class="pull-right pagado">(series
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Lista actualizada dragon bal super latino</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/22">IPTVSMART</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">WWW.IPTVSMART.ML</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/24">Juego de Tronos - Latino</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Todas las temporadas</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/25">Serie Chapo</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Serie univision</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/34">TecnoTV</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Latinos</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="peliculas">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/38">Peliculas CeceGeek</a>
+                                        <span class="pull-right pagado">(peliculas
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">Peliculas</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="iptv">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/39">Centro Multimedia</a>
+                                        <span class="pull-right pagado">(iptv
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">http://www.micentromultimedia.com/</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                    <tr data-status="peliculas">
+                                                                                                                                                                                                <td>
+                            <a href="javascript:;" class="star">
+                                <i class="glyphicon glyphicon-star"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <div class="media">
+                                <a href="#" class="pull-left">
+                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg"
+                                         class="media-photo">
+                                </a>
+                                <div class="media-body">
+                                                                        <h4 class="title">
+                                        <a href="/show/40">Peliculas TECNOTV</a>
+                                        <span class="pull-right pagado">(peliculas
+                                            )</span>
+                                    </h4>
+                                    <p class="summary">TecnoTV</p>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function () {
+
+            $('.star').on('click', function () {
+                $(this).toggleClass('star-checked');
+            });
+
+            $('.ckbox label').on('click', function () {
+                $(this).parents('tr').toggleClass('selected');
+            });
+
+            $('.btn-filter').on('click', function () {
+                var $target = $(this).data('target');
+                if ($target != 'all') {
+                    $('.table tr').css('display', 'none');
+                    $('.table tr[data-status="' + $target + '"]').fadeIn('slow');
+                } else {
+                    $('.table tr').css('display', 'none').fadeIn('slow');
+                }
+            });
+
+        });
+    </script>
+                <div class="content-footer">
+                    <p>
+                        Page © - 2017 - Powered By <a href="https://www.pachinn.com" target="_blank">Pachinn</a>
+                    </p>
+                </div>
+        </section>
+    </div>
+</div>
+
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync = _Hasync || [];
+    _Hasync.push(['Histats.start', '1,2931992,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function () {
+        var hs = document.createElement('script');
+        hs.type = 'text/javascript';
+        hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+<noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?2931992&101" alt="free contador"
+                                           border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+</html>
+
+
 
 
