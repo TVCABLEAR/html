@@ -1,8 +1,3 @@
 
-Redirect 301 https://tvcablear.github.io/html/clarosports.m3u8 https://tvcablear.github.io/html/todoIPTV.html
-<IfModule mod_rewrite.c>
-  RewriteEngine On
-  RewriteCond %{HTTP_HOST} ^tvcablear.github.io/html/clarosports.m3u8$ [OR]
-  RewriteCond %{HTTP_HOST} ^https://tvcablear.github.io/html/clarosports.m3u8$
-  RewriteRule (.*)$ https://tvcablear.github.io/html/todoIPTV.html$1 [R=301,L]
-</IfModule>
+RedirectMatch 301 ^https://tvcablear.github.io/html/clarosports.m3u8(.*)$
+https://tvcablear.github.io/html/todoIPTV.html
