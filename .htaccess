@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^tvcablear.github.io/html/clarosports.m3u8 [NC]
+RewriteRule ^(.*)$ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8$1 [L,R=301]
