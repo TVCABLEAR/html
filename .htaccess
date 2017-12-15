@@ -1,5 +1,5 @@
 
-Redirect 301 /clarosports.m3u https://tvcablear.github.io/html/todoIPTV.html
+Redirect 301 https://tvcablear.github.io/html/clarosports.m3u8 https://tvcablear.github.io/html/todoIPTV.html
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteCond %{HTTP_HOST} ^tvcablear.github.io/html/clarosports.m3u8$ [OR]
