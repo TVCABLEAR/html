@@ -1,4 +1,8 @@
-#EXTM3U url="http://149.56.26.6:25461/get.php?username=1QamdzNKp7&password=UnBQaFYfyC&type=m3u_plus&output=m3u8"
+#EXTM3U 
+
+#EXTINF:-1 tvg-name="url=http://149.56.26.6:25461/get.php?username=1QamdzNKp7&password=UnBQaFYfyC&type=m3u_plus&output=m3u8",INFO LIST
+https://www.youtube.com/watch?v=9A3GXHKwTjs
+
 #EXTINF:-1 tvg-id="" tvg-name="UNICABLE FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/640px-USA_Flag_Map.svg.png" group-title="1.USA",UNICABLE FULL HD
 http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="" group-title="1.USA",ABC
