@@ -1,0 +1,655 @@
+#EXTM3U url="http://149.56.26.6:25461/get.php?username=1QamdzNKp7&password=UnBQaFYfyC&type=m3u_plus&output=m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/640px-USA_Flag_Map.svg.png" group-title="1.USA",UNICABLE FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="" group-title="1.USA",ABC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News." tvg-logo="" group-title="1.USA",ABC News.
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="AMC." tvg-logo="" group-title="1.USA",AMC.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="1.USA",Animal Planet
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC America" tvg-logo="" group-title="1.USA",BBC America
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein ES." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="1.USA",Bein ES.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="1.España",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="" group-title="1.USA",Bravo
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="1.USA",Cartoon Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="" group-title="1.USA",CBS
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sport Network" tvg-logo="" group-title="1.USA",CBS Sport Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="1.USA",Cinemax
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Thrillermax" tvg-logo="" group-title="1.USA",Cinemax Thrillermax
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="1.USA",CNBC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="1.USA",CNN
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="1.USA",Comedy Central
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Destination America" tvg-logo="" group-title="1.USA",Destination America
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="1.USA",Discovery Channel
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family" tvg-logo="" group-title="1.USA",Discovery Family
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="1.USA",Disney Channel
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="" group-title="1.USA",Disney Jr
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="1.USA",Disney XD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evine" tvg-logo="https://www.truthinaging.com/media/blogimages/EVINE_Live_logo_250x263.jpg" group-title="1.USA",Evine
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="1.USA",ESPN
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="1.USA",ESPN 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD" tvg-logo="" group-title="1.USA",ESPN U HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="1.USA",Food Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="1.USA",Fox
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="" group-title="1.USA",Freeform
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="1.USA",FX
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="" group-title="1.USA",FXX
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="" group-title="",Hallmark
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="1.USA",HBO
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="1.USA",HBO 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="" group-title="1.USA",HBO Comedy
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="1.USA",HBO Family
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="1.USA",HBO Signature
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="" group-title="1.USA",HBO Zone
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="1.USA",HGTV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="",History Channel
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IFC" tvg-logo="" group-title="1.USA",IFC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="1.USA",Investigation Discovery
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie Network HD" tvg-logo="" group-title="1.USA",Lifetime Movie Network HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="" group-title="1.USA",MLB Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="" group-title="1.USA",MSNBC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 2" tvg-logo="" group-title="1.USA",MTV 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="" group-title="1.USA",NBC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="" group-title="1.USA",NBCSN
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL" tvg-logo="http://www.vanguardia.com.mx/sites/default/files/nfl1_0_0.jpg" group-title="1.Latinos",NFL
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/11782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="" group-title="NFL Sunday Ticket",NFL Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="1.USA",Nick JR
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Toons" tvg-logo="" group-title="1.USA",Nick Toons
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="1.USA",Nickelodeon
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="" group-title="1.USA",PBS
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="1.USA",Red Bull TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_1.jpg" group-title="1.Colombia",RCN
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smile Tv" tvg-logo="" group-title="1.USA",Smile Tv
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/14892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network" tvg-logo="" group-title="1.USA",SEC Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showcase" tvg-logo="" group-title="1.USA",Showcase
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2" tvg-logo="" group-title="1.USA",Showtime 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone" tvg-logo="" group-title="1.USA",Showtime Family Zone
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="" group-title="1.USA",Spike
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema" tvg-logo="" group-title="1.USA",Starz Cinema
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz East" tvg-logo="" group-title="1.USA",Starz East
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids and Family" tvg-logo="" group-title="1.USA",Starz Kids and Family
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="1.Latinos",SyFy
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="1.USA",TBS
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="1.USA",Tennis Channel
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="1.USA",TLC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="1.USA",TNT
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="1.USA",Travel Channel
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="" group-title="1.USA",Tru TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The CW Network" tvg-logo="" group-title="1.USA",The CW Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="" group-title="1.USA",USA Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="1.USA",VH1
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viceland" tvg-logo="" group-title="1.USA",Viceland
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="1.USA",WWE
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="" group-title="1.Latinos",AZ MUNDO
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://bundler.watch.aetnd.com/images/aetv/generic-thumb.jpg" group-title="1.Latinos",A&E HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Trece HD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-13-hd.png" group-title="1.Latinos",Azteca Trece HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2015/03/AMC-logo.jpg" group-title="1.Latinos",AMC HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet." tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/canal-47.png" group-title="1.Latinos",Animal Planet.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://mitvenvivo.org/wp-content/uploads/2013/08/axn-en-vivo.jpg" group-title="1.Latinos",AXN HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="" group-title="1.Latinos",ADN 40
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/14289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-logo="" group-title="1.Latinos",Canal Once
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Capital Tv" tvg-logo="" group-title="1.USA",Capital Tv
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas HD" tvg-logo="https://i.ytimg.com/vi/ioh5VIyfE2k/maxresdefault.jpg" group-title="1.Latinos",Canal De Las Estrellas HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="http://tecnotv.info/logoss/canal%205%20HD.png" group-title="1.Latinos",Canal 5 HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="1.Latinos",Cinecanal HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="1.Latinos",Comedy Central HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="" group-title="1.Latinos",CNN Español
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE FULL HD" tvg-logo="https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwikgKii0rTVAhWj7oMKHRPwDWcQjRwIBw&url=https%3A%2F%2Ftwitter.com%2Fcantinazotv&psig=AFQjCNGeM9vKjeIkab01DJfzYD8pEgyg_w&ust=1501629045528154" group-title="FULL HD",DHE FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal FULL HD" tvg-logo="http://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="FULL HD",Cinecanal FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="1.Latinos",Cinemax HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://www.ziggo.nl/content/www-ziggo-nl/nl/televisie/zenders/cartoon-network/_jcr_content/background_fullwidth/templatesection/section_content/nested_columns/parsys-1/templated/data/infobox_img.img.jpg/1481293985838.jpg" group-title="1.Latinos",Cartoon Network HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel." tvg-logo="https://lumiere-a.akamaihd.net/v1/images/uk_disneychannel_contenttoolbar_videoportal_75f636ea.jpeg" group-title="1.Latinos",Disney Channel.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://pbs.twimg.com/profile_images/809899201916182530/-1_4fULw_400x400.jpg" group-title="1.Latinos",Disney Junior
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD." tvg-logo="http://tvseriesfinale.com/wp-content/uploads/2016/01/disneyXD.jpg" group-title="1.Latinos",Disney XD.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/756054671765057536/mvZmWt8W.jpg" group-title="1.Latinos",Discovery Channel HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FULL HD" tvg-logo="http://www.logotypes101.com/logos/397/F6D3A0C3E688D9072F58B0B9DBF4C190/Discovery_Civilization_Channel.png" group-title="FULL HD",Discovery Channel FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://i.vimeocdn.com/video/560359034_1280x720.jpg" group-title="1.Latinos",Discovery H&H
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID." tvg-logo="http://images.mi.tv/channels/co_discovery-id-hd_m.png" group-title="1.Latinos",Discovery ID.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="FULL HD",Discovery Kids FULL
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theatre HD" tvg-logo="https://i.ytimg.com/vi/np6Cksh-sDY/maxresdefault.jpg" group-title="1.Latinos",Discovery Theatre HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC." tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="1.Latinos",Discovery TLC.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="1.Latinos",Discovery Turbo
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="http://images.mi.tv/channels/ar_el-gourmet_m.png" group-title="1.Latinos",El Gourmet
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="1.Latinos",E!
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://idents.org/lightbox/espnhdBIG.jpg" group-title="1.Latinos",ESPN HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png" group-title="1.Latinos",ESPN 2 HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://cdn.espni.go.com/_images/og-images/espn3.jpg" group-title="1.Latinos",ESPN 3
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="https://pbs.twimg.com/profile_images/661137418460884992/Jsr-YcNd.png" group-title="1.Latinos",Fox Life
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/6826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="1.Latinos",Fox HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network" tvg-logo="" group-title="1.USA",NHL Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/24956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy HD." tvg-logo="http://www.directv.cl/img/landing-noticias/noviembre-2016/FOX-Comedy-HD.jpg" group-title="1.Latinos",Fox Comedy HD.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_family.jpg" group-title="1.Latinos",Fox Family
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/6827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series HD" tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_series.jpg" group-title="1.Latinos",Fox Series HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://1.bp.blogspot.com/-OiaAfOtv8Ag/Vm340ZwlGrI/AAAAAAAAB6E/nf6ez-RFToc/s1600/dsfas.png" group-title="1.Latinos",Fox Action HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema HD" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="1.Latinos",Fox Cinema HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD." tvg-logo="https://pbs.twimg.com/profile_images/2219738239/New_Picture__6_.png" group-title="1.Latinos",Fox Movies HD.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://media.foxsports.com.au/technology/resources/prod/images/foxsports-australia-logo.png" group-title="1.Latinos",Fox Sports HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="1.Latinos",Fox Sports 2 HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="1.Latinos",Fox Sports 3
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1" tvg-logo="https://yt3.ggpht.com/-p4tzDhRHziM/AAAAAAAAAAI/AAAAAAAAAAA/BgBf89zrN30/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="1.Latinos",Formula 1
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX." tvg-logo="http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/images/atv7/com.fxnow.appletv@1080.png" group-title="1.Latinos",FX.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="http://www.directv.cl/img/landing-noticias/diciembre-2015/Golden-HD.jpg" group-title="1.Latinos",Golden HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gala Tv FULL HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/42/Logo-galatv.png" group-title="FULL HD",Gala Tv FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/06/GLITZ.png" group-title="1.Latinos",Glitz
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="1.Latinos",History HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="1.Latinos",Hola TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://i.huffpost.com/gen/2170088/images/o-HBO-STREAMING-facebook.jpg" group-title="1.Latinos",HBO HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/hbo2.jpg" group-title="1.Latinos",HBO 2 HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/6828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus" tvg-logo="http://peliculasgratis-megahd.com/img/og/hbo.jpg" group-title="1.Latinos",Hbo Plus
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://hboasiapromos.s3.amazonaws.com/0_core/fb-family-480x320.jpg" group-title="1.Latinos",HBO Family HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://tudotv.tv/fotos/f17d92287fe68e4166baebd177ec1632.jpg" group-title="1.Latinos",HBO Signature HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime.FULL HD" tvg-logo="" group-title="FULL HD",Lifetime.FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="http://images.mi.tv/channels/mx_max-prime-mexico_m.png" group-title="1.Latinos",MAX Prime
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEOMUNDO" tvg-logo="" group-title="1.USA",NATGEOMUNDO
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FULL HD" tvg-logo="" group-title="FULL HD",FOX SPORTS 2 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FULL HD" tvg-logo="" group-title="FULL HD",Discovery Turbo FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FULL HD" tvg-logo="" group-title="FULL HD",Fox Sports 1 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History FULL HD" tvg-logo="" group-title="FULL HD",History FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox  Movies FULL HD" tvg-logo="" group-title="FULL HD",Fox  Movies FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series FULL HD" tvg-logo="" group-title="FULL HD",Fox Series FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="" group-title="FULL HD",AXN FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA FULL HD" tvg-logo="" group-title="FULL HD",AZTECA CINEMA FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FULL HD" tvg-logo="" group-title="FULL HD",Cartoon Network FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID FULL HD" tvg-logo="" group-title="FULL HD",Discovery ID FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet FULL HD" tvg-logo="" group-title="FULL HD",El Gourmet FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FULL HD" tvg-logo="" group-title="FULL HD",HBO 2 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FULL HD" tvg-logo="" group-title="FULL HD",LIFETIME FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Morbido FULL HD" tvg-logo="" group-title="FULL HD",Morbido FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC FULL HD" tvg-logo="" group-title="FULL HD",TLC FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP FULL HD" tvg-logo="" group-title="FULL HD",MAX UP FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS." tvg-logo="" group-title="1.Latinos",TBS.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FULL HD" tvg-logo="" group-title="FULL HD",Studio Universal FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV HD" tvg-logo="" group-title="FULL HD",Milenio TV HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV." tvg-logo="http://www.videoandvision.com/img/clients/mtv.png" group-title="1.Latinos",MTV.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios MTY" tvg-logo="http://www.cosmocable.mx/imgs/canales/multimedios.png" group-title="1.Latinos",Multimedios MTY
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="1.Latinos",Natgeo Kids FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="FULL HD",Nick 2 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/2630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://images.bwwstatic.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="1.Latinos",Nickelodeon HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Toons." tvg-logo="" group-title="1.Latinos",Nick Toons.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="1.Latinos",Nick Jr.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT-GEO" tvg-logo="" group-title="1.Latinos",NAT-GEO
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/14845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild." tvg-logo="" group-title="1.USA",NatGeo Wild.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/15128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony FULL HD" tvg-logo="http://multipress.com.mx/wp-content/uploads/2014/11/sony.jpg" group-title="FULL HD",Sony FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD." tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8--space-logos.jpg" group-title="1.Latinos",Space HD.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT." tvg-logo="http://style.shockvisual.net/wp-content/uploads/2015/04/tnt.png" group-title="1.Latinos",TNT.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/11781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://www.cablevision.com.uy/templates/cablevisionfibertel/images/canales/TNT-Series.png" group-title="1.Latinos",TNT Series HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTv HD" tvg-logo="http://www.foxcitiestv.com/files/images/trutv.png" group-title="FULL HD",TruTv HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="1.Latinos",TDN
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/2629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="http://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg" group-title="1.Latinos",Telemundo
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RITMSON." tvg-logo="" group-title="1.Latinos",RITMSON.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/14288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ToonCast" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Tooncast.png" group-title="1.Latinos",ToonCast
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://i2.esmas.com/telehitnoticias/images/telehit-logo-footer.png" group-title="1.Latinos",Telehit
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tiin" tvg-logo="" group-title="1.Latinos",Tiin
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="1.Latinos",Discovery Kids
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/7206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="1.Latinos",Univision Network
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/5888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UniMas" tvg-logo="https://cdn3.uvnimg.com/05/9d/736aa8d14b6baefa6a61f4eee82d/Picture1.jpg" group-title="1.Latinos",UniMas
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/14650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 FULL HD" tvg-logo="" group-title="FULL HD",Azteca 7 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/25075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="1.Latinos",Discovery World
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/25701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="1.Latinos",Distrito Comedia
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/24511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FULL HD" tvg-logo="" group-title="1.Latinos",Paramount Channel FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/32373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicable HD" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/04/logo-unicable.png" group-title="FULL HD",Unicable HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="1.Latinos",Universal HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="https://allserieslinamarcela.files.wordpress.com/2009/05/8339_logo_warnerchannel.jpg" group-title="1.Latinos",Warner HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/1647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIPR Canal 6" tvg-logo="" group-title="1.Puerto Rico",WIPR Canal 6
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://www.sportslatam.com/web/media/k2/items/cache/5d9bd784bfd234610bf8ba15e7ad6a4e_XL.jpg" group-title="1.España",Real Madrid TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/11143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YES" tvg-logo="" group-title="1.USA",YES
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classics" tvg-logo="" group-title="1.Latinos",MTV Classics
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/8413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real madrid vs Barcelona" tvg-logo="http://dreamstv.mx/posters/1492539035453.png" group-title="1.PPV",Real madrid vs Barcelona
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/16145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PX SPORTS FULL HD" tvg-logo="https://thumbs.dreamstime.com/b/contenido-del-adulto-xxx-36739011.jpg" group-title="FULL HD",PX SPORTS FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/16110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="" group-title="1.Adultos",Venus
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="" group-title="1.Adultos",Sextreme
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHE FULL HD" tvg-logo="" group-title="1.Adultos",SHE FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playboy FULL HD" tvg-logo="" group-title="1.Adultos",Playboy FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/13371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LMP JUEGO 1" tvg-logo="" group-title="1.PPV",LMP JUEGO 1
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/32118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LMP JUEGO 2" tvg-logo="" group-title="1.PPV",LMP JUEGO 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/31726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LMP JUEGO 3" tvg-logo="" group-title="1.PPV",LMP JUEGO 3
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/31725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LMP JUEGO 4" tvg-logo="" group-title="1.PPV",LMP JUEGO 4
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/25060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV" tvg-logo="" group-title="1.Adultos",Brazzers TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="" group-title="1.Latinos",TVC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="NBA",NBA TV HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="1.PPV",UFC
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sundance FULL HD" tvg-logo="" group-title="FULL HD",Sundance FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="" group-title="1.Latinos",UFC HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Latin America" tvg-logo="" group-title="1.Latinos",Golf Latin America
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="1.Latinos",H2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes FULL HD" tvg-logo="" group-title="FULL HD",TVC Deportes FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/36214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RITMSON" tvg-logo="" group-title="1.Latinos",RITMSON
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/34674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="" group-title="1.Latinos",TVC Deportes
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/36837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="1.Latinos",Canal 26
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/19391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal FULL HD" tvg-logo="data:image/png;base64,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" group-title="FULL HD",Universal FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/2095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="1.Latinos",VH1 HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/38590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="fox deportes" tvg-logo="" group-title="1.USA",fox deportes
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/39007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English" tvg-logo="" group-title="1.USA",Bein Sports English
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/39009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse" tvg-logo="" group-title="1.Adultos",Penthouse
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="" group-title="FULL HD",TNT FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula full hd" tvg-logo="" group-title="FULL HD",De Pelicula full hd
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space FULL HD" tvg-logo="" group-title="FULL HD",Space FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FULL HD" tvg-logo="" group-title="FULL HD",ESPN 2 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FULL HD" tvg-logo="" group-title="FULL HD",ESPN 3 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN FULL" tvg-logo="" group-title="FULL HD",IMAGEN FULL
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 1" tvg-logo="" group-title="1.USA",NHL Ice Pass 1
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 2" tvg-logo="" group-title="1.USA",NHL Ice Pass 2
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 3" tvg-logo="" group-title="1.USA",NHL Ice Pass 3
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 4" tvg-logo="" group-title="1.USA",NHL Ice Pass 4
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 5" tvg-logo="" group-title="1.USA",NHL Ice Pass 5
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 6" tvg-logo="" group-title="1.USA",NHL Ice Pass 6
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Ice Pass 7" tvg-logo="" group-title="1.USA",NHL Ice Pass 7
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="much music" tvg-logo="" group-title="1.Latinos",much music
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="1.Latinos",Boomerang
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="1.USA",BBC World News
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FULL HD" tvg-logo="" group-title="FULL HD",HBO Family FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47" tvg-logo="" group-title="1.USA",Telemundo 47
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="" group-title="FULL HD",AMC FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FULL HD" tvg-logo="" group-title="FULL HD",Animal Planet FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Full HD" tvg-logo="" group-title="FULL HD",Canal 5 Full HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas FULL HD" tvg-logo="" group-title="FULL HD",Canal De Las Estrellas FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foodnetwork" tvg-logo="" group-title="1.Latinos",Foodnetwork
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox FULL HD" tvg-logo="" group-title="FULL HD",Fox FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life FULL HD" tvg-logo="" group-title="FULL HD",Fox Life FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS FULL HD" tvg-logo="" group-title="FULL HD",FOX NEWS FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX FULL HD" tvg-logo="" group-title="FULL HD",FX FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM FULL HD" tvg-logo="" group-title="FULL HD",FXM FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexiquense FULL HD" tvg-logo="" group-title="FULL HD",Mexiquense FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MN TVC FULL HD" tvg-logo="" group-title="FULL HD",MN TVC FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA 76ers" tvg-logo="" group-title="NBA",NBA 76ers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA brooklin" tvg-logo="" group-title="NBA",NBA brooklin
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA bucks" tvg-logo="" group-title="NBA",NBA bucks
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA cavaliers" tvg-logo="" group-title="NBA",NBA cavaliers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA celtics" tvg-logo="" group-title="NBA",NBA celtics
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA chicago" tvg-logo="" group-title="NBA",NBA chicago
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA clippers" tvg-logo="" group-title="NBA",NBA clippers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA golden" tvg-logo="" group-title="NBA",NBA golden
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA hawks" tvg-logo="" group-title="NBA",NBA hawks
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA hornets" tvg-logo="" group-title="NBA",NBA hornets
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA jazz" tvg-logo="" group-title="NBA",NBA jazz
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA knicks" tvg-logo="" group-title="NBA",NBA knicks
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA lakers" tvg-logo="" group-title="NBA",NBA lakers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA mavericks" tvg-logo="" group-title="NBA",NBA mavericks
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA memphis" tvg-logo="" group-title="NBA",NBA memphis
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA miami" tvg-logo="" group-title="NBA",NBA miami
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA nuggets" tvg-logo="" group-title="NBA",NBA nuggets
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA oklahoma" tvg-logo="" group-title="NBA",NBA oklahoma
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA orlando" tvg-logo="" group-title="NBA",NBA orlando
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA pacers" tvg-logo="" group-title="NBA",NBA pacers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA pelicans" tvg-logo="" group-title="NBA",NBA pelicans
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA pistons" tvg-logo="" group-title="NBA",NBA pistons
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA raptors" tvg-logo="" group-title="NBA",NBA raptors
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA rockets" tvg-logo="" group-title="NBA",NBA rockets
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA sacramento" tvg-logo="" group-title="NBA",NBA sacramento
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA spurs" tvg-logo="" group-title="NBA",NBA spurs
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA timberwolves" tvg-logo="" group-title="NBA",NBA timberwolves
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA washington" tvg-logo="" group-title="NBA",NBA washington
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="49ers" tvg-logo="https://pbs.twimg.com/profile_images/929896454985957376/1AVDca7i_400x400.jpg" group-title="NFL Sunday Ticket",49ers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bears" tvg-logo="" group-title="NFL Sunday Ticket",Bears
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bills" tvg-logo="" group-title="NFL Sunday Ticket",Bills
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Broncos" tvg-logo="" group-title="NFL Sunday Ticket",Broncos
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Browns" tvg-logo="" group-title="NFL Sunday Ticket",Browns
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Buccaneers" tvg-logo="" group-title="NFL Sunday Ticket",Buccaneers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cardinals" tvg-logo="" group-title="NFL Sunday Ticket",Cardinals
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chargers" tvg-logo="" group-title="NFL Sunday Ticket",Chargers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs" tvg-logo="" group-title="NFL Sunday Ticket",Chiefs
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys" tvg-logo="" group-title="NFL Sunday Ticket",Cowboys
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dolphins" tvg-logo="" group-title="NFL Sunday Ticket",Dolphins
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagles" tvg-logo="" group-title="NFL Sunday Ticket",Eagles
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Falcons" tvg-logo="" group-title="NFL Sunday Ticket",Falcons
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giants" tvg-logo="" group-title="NFL Sunday Ticket",Giants
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaguars" tvg-logo="" group-title="NFL Sunday Ticket",Jaguars
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jets" tvg-logo="" group-title="NFL Sunday Ticket",Jets
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lions" tvg-logo="" group-title="NFL Sunday Ticket",Lions
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Packers" tvg-logo="" group-title="NFL Sunday Ticket",Packers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panthers" tvg-logo="" group-title="NFL Sunday Ticket",Panthers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patriots" tvg-logo="" group-title="NFL Sunday Ticket",Patriots
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raiders" tvg-logo="" group-title="NFL Sunday Ticket",Raiders
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rams." tvg-logo="" group-title="NFL Sunday Ticket",Rams.
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ravens" tvg-logo="" group-title="NFL Sunday Ticket",Ravens
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redskins" tvg-logo="" group-title="NFL Sunday Ticket",Redskins
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saints" tvg-logo="" group-title="NFL Sunday Ticket",Saints
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Seahawks" tvg-logo="" group-title="NFL Sunday Ticket",Seahawks
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Steelers" tvg-logo="" group-title="NFL Sunday Ticket",Steelers
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Texans" tvg-logo="" group-title="NFL Sunday Ticket",Texans
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Titans" tvg-logo="" group-title="NFL Sunday Ticket",Titans
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vikings" tvg-logo="" group-title="NFL Sunday Ticket",Vikings
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES FULL HD" tvg-logo="" group-title="FULL HD",A3SERIES FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FULL HD" tvg-logo="" group-title="FULL HD",Cinemax FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC FULL" tvg-logo="" group-title="FULL HD",MAS CHIC FULL
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="1.Latinos",BabyTV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="FULL HD",HBO FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FULL HD" tvg-logo="" group-title="FULL HD",HBO SIGNATURE FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FULL HD" tvg-logo="" group-title="FULL HD",HBO PLUS FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action FULL HD" tvg-logo="" group-title="FULL HD",Fox Action FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics SD" tvg-logo="" group-title="1.Latinos",Fox Classics SD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="" group-title="1.Latinos",Premier League
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="liga santander" tvg-logo="" group-title="1.Latinos",liga santander
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Excelsior" tvg-logo="" group-title="1.Latinos",Excelsior
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV ES" tvg-logo="" group-title="1.Latinos",GOLTV ES
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latin American Sports" tvg-logo="" group-title="1.Latinos",Latin American Sports
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD" tvg-logo="" group-title="1.USA",Fox Soccer Plus HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="" group-title="FULL HD",A&E FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="1.Latinos",Garage TV
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FULL HD" tvg-logo="" group-title="FULL HD",VH1 FULL HD
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="1.Latinos",FILM & ARTS
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="max prime full hd" tvg-logo="" group-title="FULL HD",max prime full hd
+http://149.56.26.6:25461/live/1QamdzNKp7/UnBQaFYfyC/40499.m3u8
