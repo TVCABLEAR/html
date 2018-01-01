@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-logo="http://wiki.ifmsa.org/scope/images/archive/5/58/20091025022915%21Chile_flag.jpg", >>> CHILE >>>
-http://wiki.ifmsa.org/scope/images/archive/5/58/20091025022915%21Chile_flag.jpg
+https://github.com/TVCABLEAR/html/blob/master/LISTAS/M3U/FLAGS/chileBANDERA.mp4?raw=true
 
 #EXTINF:0 type="favorites" tvg-logo="https://goo.gl/Eixz58" group-title="CHILE", CANAL 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8?iptvgratis?chile.m3u8
