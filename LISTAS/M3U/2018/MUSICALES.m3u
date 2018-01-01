@@ -1,0 +1,156 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
+http://wowza2.mysoltv.com:1992/Latino_MTV_LIVE/index.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://condista.com/wp-content/uploads/2015/09/mi-musica-300x225.jpg" title=,mi musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://images.mi.tv/channels/co_tigo-music_m.png" title=,tigo music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1type="stream" tvg-logo="http://portalservicios.emcali.net.co/img/canales-sd/cantinazo.jpg" title=,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://pbs.twimg.com/profile_images/695255688067571712/jLsoL-BY.jpg" title=,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+
+#EXTINF:-1,type="stream" tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg" title=,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://okteve.com/wp-content/uploads/media/8367e3343fd31283bc149c5fae84ca6e.jpeg" title=,Telemúsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.17264306_1618446504835714_3401698618822389384_n.jpg.0e462291733837a7ddeee2ab4ac84acc.jpg" title=,Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+
+#EXTINF:-1,type="stream" tvg-logo="http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg" title=,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://cdn.firstone.tv/images/logos/uk/VIBEE.png" title=,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://www.lagardere-pub.com/files/Carr%C3%A9s/Virgin%20Radio/carre-virgin.jpg" title=,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://www.ottofmtv.com/img/logo.png" title=,OTTO fm
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/media/99bf315400be046eda525c154645f49a.jpeg" title=,RETRO Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://www.oceanic.com/wp-content/uploads/2014/01/Music_Choice_Logo.jpg" title=,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" title=,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" title=,RÁDIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://dmedia.home.xs4all.nl/radiomontecarlo.png" title=,RÁDIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
+
+
+#EXTINF:-1,Cool
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1,Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1,Djing
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,Power
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
+
+
+#EXTINF:-1,Telemúsica
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+
+#EXTINF:-1,TELPIN HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", R&B Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Hip-Hop And R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Today
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", MUSICAR URBANA
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", ROCK NACIONAL TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
+http://wowza2.mysoltv.com:1992/Latino_MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", SON POPULAR 
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+
