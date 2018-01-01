@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,type="stream" tvg-logo="https://pbs.twimg.com/profile_images/695255688067571712/jLsoL-BY.jpg" title=, HITHit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://www.firstone.tv/images/logos/pl/AMAZINGTV.png" title=, AMAZING TV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
+#EXTINF:-1,type="stream" tvg-logo="https://goo.gl/34aQoU" title=, ATOMIC
+rtmp://5.154.185.153/live/live.flv
+
+#EXTINF:-1,QUIERO MUSICA
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1, HIP HOP TV TV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+
+#EXTINF:-1, CANAL DE LOS RECUERDOS
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg" group-title="MUSICA", VH1
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.2017auditions.com/wp-content/uploads/2016/11/mtv-casting-call.jpg" group-title="MUSICA",MTV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HD)/Stream(01)/index.m3u8
