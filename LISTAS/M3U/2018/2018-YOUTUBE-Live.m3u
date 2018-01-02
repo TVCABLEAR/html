@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", TN Live
+https://www.youtube.com/watch?v=0tek2aa8hAQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", LN+ Live
+https://www.youtube.com/watch?v=Rjse9hY_eOA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", A24 Live
+https://www.youtube.com/watch?v=kLlI76mNygk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", 6SnR Live
+https://www.youtube.com/watch?v=BYcSytEG5D8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", C5N Live
+https://www.youtube.com/watch?v=3FqxTjT63Vs
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", TVP Live
+https://www.youtube.com/watch?v=GbsbOm0MXEQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", MEGA CL Live
+https://www.youtube.com/watch?v=jxxzcUl11gs
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", GRANADA Live
+https://www.youtube.com/watch?v=o2rViDSaRZE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", CGTN Live
+https://www.youtube.com/watch?v=zghho0FINAk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", SONORA mx Live
+https://www.youtube.com/watch?v=XT0rpx-2cvA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", GUADALAJARA Live
+https://www.youtube.com/watch?v=ZS_eUrRtNAY
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", MALAGA Live
+https://www.youtube.com/watch?v=GjA8k_vP3bs
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", FRANCE 24 Live
+https://www.youtube.com/watch?v=NekjaV4oymY
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", LA NIÑERA 24 Hs
+https://www.youtube.com/watch?v=zBV6wFwSw5g
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", Movies A 24/7
 https://www.youtube.com/watch?v=mKbVhHnWlFI
 
