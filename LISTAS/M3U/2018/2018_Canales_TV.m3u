@@ -1,104 +1,176 @@
 #EXTM3U
 
-#EXTINF:-1, TNT 1
+#EXTINF:-1 group-title="IP-189", TNT 1
 http://189.216.247.113/Content/HLS/Live/Channel(TNT)/Stream(02)/index.m3u8
-#EXTINF:-1, TNT 2
+#EXTINF:-1 group-title="IP-189", TNT 2
 http://189.216.247.113/Content/HLS/Live/Channel(TNT)/Stream(01)/index.m3u8
-#EXTINF:-1, TNT 3
+#EXTINF:-1 group-title="IP-189", TNT 3
 http://189.216.247.113/Content/HLS/Live/Channel(TNT)/Stream(07)/index.m3u8
 
-#EXTINF:-1, TNT HD 1
+#EXTINF:-1 group-title="IP-189", TNT HD 1
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
-#EXTINF:-1, TNT HD 2
+#EXTINF:-1 group-title="IP-189", TNT HD 2
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
-#EXTINF:-1, TNT HD 3
+#EXTINF:-1 group-title="IP-189", TNT HD 3
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(07)/index.m3u8
 
-#EXTINF:-1, TNT_SERIES 1
+#EXTINF:-1 group-title="IP-189", TNT_SERIES 1
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_SERIES)/Stream(02)/index.m3u8
-#EXTINF:-1, TNT_SERIES 2
+#EXTINF:-1 group-title="IP-189", TNT_SERIES 2
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_SERIES)/Stream(01)/index.m3u8
-#EXTINF:-1, TNT_SERIES 3
+#EXTINF:-1 group-title="IP-189", TNT_SERIES 3
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_SERIES)/Stream(07)/index.m3u8
 
-#EXTINF:-1, FX 1
+#EXTINF:-1 group-title="IP-189", FX 1
 http://189.216.247.113/Content/HLS/Live/Channel(FX)/Stream(02)/index.m3u8
-#EXTINF:-1, FX 2
+#EXTINF:-1 group-title="IP-189", FX 2
 http://189.216.247.113/Content/HLS/Live/Channel(FX)/Stream(01)/index.m3u8
-#EXTINF:-1, FX 3
+#EXTINF:-1 group-title="IP-189", FX 3
 http://189.216.247.113/Content/HLS/Live/Channel(FX)/Stream(07)/index.m3u8
 
-#EXTINF:-1, EUROCHANNEL 1
+#EXTINF:-1 group-title="IP-189", EUROCHANNEL 1
 http://189.216.247.113/Content/HLS/Live/Channel(EUROCHANNEL)/Stream(02)/index.m3u8
-#EXTINF:-1, EUROCHANNEL 2
+#EXTINF:-1 group-title="IP-189", EUROCHANNEL 2
 http://189.216.247.113/Content/HLS/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8
-#EXTINF:-1, EUROCHANNEL 3
+#EXTINF:-1 group-title="IP-189", EUROCHANNEL 3
 http://189.216.247.113/Content/HLS/Live/Channel(EUROCHANNEL)/Stream(07)/index.m3u8
 
-#EXTINF:-1, GOLDEN_HD 1
+#EXTINF:-1 group-title="IP-189", GOLDEN_HD 1
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(02)/index.m3u8
-#EXTINF:-1, GOLDEN_HD 2
+#EXTINF:-1 group-title="IP-189", GOLDEN_HD 2
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1, GOLDEN_HD 3
+#EXTINF:-1 group-title="IP-189", GOLDEN_HD 3
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(07)/index.m3u8
 
-#EXTINF:-1, FXM 1
+#EXTINF:-1 group-title="IP-189", FXM 1
 http://189.216.247.113/Content/HLS/Live/Channel(FXM)/Stream(02)/index.m3u8
-#EXTINF:-1, FXM 2
+#EXTINF:-1 group-title="IP-189", FXM 2
 http://189.216.247.113/Content/HLS/Live/Channel(FXM)/Stream(01)/index.m3u8
-#EXTINF:-1, FXM 3
+#EXTINF:-1 group-title="IP-189", FXM 3
 http://189.216.247.113/Content/HLS/Live/Channel(FXM)/Stream(07)/index.m3u8
 
-#EXTINF:-1, FOX 1
+#EXTINF:-1 group-title="IP-189", FOX 1
 http://189.216.247.113/Content/HLS/Live/Channel(FOX)/Stream(02)/index.m3u8
-#EXTINF:-1, FOX 2
+#EXTINF:-1 group-title="IP-189", FOX 2
 http://189.216.247.113/Content/HLS/Live/Channel(FOX)/Stream(01)/index.m3u8
-#EXTINF:-1, FOX 3
+#EXTINF:-1 group-title="IP-189", FOX 3
 http://189.216.247.113/Content/HLS/Live/Channel(FOX)/Stream(07)/index.m3u8
 
-#EXTINF:-1, SPACE 1
+#EXTINF:-1 group-title="IP-189", SPACE 1
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1, SPACE 2
+#EXTINF:-1 group-title="IP-189", SPACE 2
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
-#EXTINF:-1, SPACE 3
+#EXTINF:-1 group-title="IP-189", SPACE 3
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE_HD)/Stream(07)/index.m3u8
 
 
-#EXTINF:-1, COMEDY CENTRAL 1
+#EXTINF:-1 group-title="IP-189", COMEDY CENTRAL 1
 http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/Stream(02)/index.m3u8
-#EXTINF:-1, COMEDY CENTRAL 2
+#EXTINF:-1 group-title="IP-189", COMEDY CENTRAL 2
 http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/Stream(01)/index.m3u8
-#EXTINF:-1, COMEDY CENTRAL 3
+#EXTINF:-1 group-title="IP-189", COMEDY CENTRAL 3
 http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/Stream(07)/index.m3u8
 
-#EXTINF:-1, CINEMAX_HD 1
+#EXTINF:-1 group-title="IP-189", CINEMAX_HD 1
 http://189.216.247.113/Content/HLS/Live/Channel(CINEMAX_HD)/Stream(02)/index.m3u8
-#EXTINF:-1, CINEMAX_HD 2
+#EXTINF:-1 group-title="IP-189", CINEMAX_HD 2
 http://189.216.247.113/Content/HLS/Live/Channel(CINEMAX_HD)/Stream(01)/index.m3u8
-#EXTINF:-1, CINEMAX_HD 3
+#EXTINF:-1 group-title="IP-189", CINEMAX_HD 3
 http://189.216.247.113/Content/HLS/Live/Channel(CINEMAX_HD)/Stream(07)/index.m3u8
 
-#EXTINF:-1, CINECANAL 1
+#EXTINF:-1 group-title="IP-189", CINECANAL 1
 http://189.216.247.113/Content/HLS/Live/Channel(CINECANAL)/Stream(02)/index.m3u8
-#EXTINF:-1, CINECANAL 2
+#EXTINF:-1 group-title="IP-189", CINECANAL 2
 http://189.216.247.113/Content/HLS/Live/Channel(CINECANAL)/Stream(01)/index.m3u8
-#EXTINF:-1, CINECANAL 3
+#EXTINF:-1 group-title="IP-189", CINECANAL 3
 http://189.216.247.113/Content/HLS/Live/Channel(CINECANAL)/Stream(07)/index.m3u8
 
-#EXTINF:-1, WARNER 1
+#EXTINF:-1 group-title="IP-189", WARNER 1
 http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/Stream(02)/index.m3u8
-#EXTINF:-1, WARNER 2
+#EXTINF:-1 group-title="IP-189", WARNER 2
 http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/Stream(01)/index.m3u8
-#EXTINF:-1, WARNER 3
+#EXTINF:-1 group-title="IP-189", WARNER 3
 http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/Stream(07)/index.m3u8
 
-#EXTINF:-1, UNIVERSAL_CHANNEL 1
+#EXTINF:-1 group-title="IP-189", UNIVERSAL_CHANNEL 1
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVERSAL_CHANNEL)/Stream(02)/index.m3u8
-#EXTINF:-1, UNIVERSAL_CHANNEL 2
+#EXTINF:-1 group-title="IP-189", UNIVERSAL_CHANNEL 2
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVERSAL_CHANNEL)/Stream(01)/index.m3u8
-#EXTINF:-1, UNIVERSAL_CHANNEL 3
+#EXTINF:-1 group-title="IP-189", UNIVERSAL_CHANNEL 3
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVERSAL_CHANNEL)/Stream(07)/index.m3u8
 
+#EXTINF:-1 group-title="IP-189", Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 group-title="IP-189", GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1 group-title="IP-189",Milenio hd
+http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:-1,FUSION TV
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1 group-title="IP-189", NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 group-title="IP-189", BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1 group-title="IP-189", TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 group-title="IP-189", UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 group-title="IP-189", ATRES_SERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:-1 group-title="IP-189", NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", GOLDEN
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 group-title="IP-189", Canal 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+#EXTINF:-1 group-title="IP-189", Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1 group-title="IP-189", ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="IP-189", ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="IP-189", F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1 group-title="IP-189", Abu Dhabi Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="IP-189", Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+
+#EXTINF:-1 group-title="IP-189", ESPN2_HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 group-title="IP-189", ESPN3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2575/brand.gif?itok=qAkXe2KL" group-title="Cine", HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_2.gif" group-title="Cine", HBO 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/57/7f/6b/577f6bb703c2cc2fcccb8ab7b06347a3--vivo-foxes.jpg" group-title="Cine", FOX
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_comedy-central_m.png" group-title="Entretenimiento", Comedy Central
+http://185.152.66.150:25461/live/fanstvapp/variedades/9.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AjSulUg-FTc/Vt9YNI8D4cI/AAAAAAAADbg/6L68Wonc5yA/s1600/fox2.png" group-title="Deportes", Fox Sports 2
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/43.m3u8
+#EXTINF:-1 tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/DISCOVERY-KIDS-300x225.png" group-title="Infantil", Discovery Kids
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/satcesc.com/web/wp-content/uploads/2016/02/canal-f1-latinoamerica.jpg?resize=200%2C200&ssl=1" group-title="Deportes",F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/DEPORTES/3.png" group-title="Deportes", ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png" group-title="Deportes", Claro Sports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 
 #EXTINF:-1,ATV | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8                 
