@@ -5,178 +5,134 @@ http://pastebin.com/raw.php?i=DMZQgynW
 
 *********Deportes******************
 
-#EXTINF:-1, #Name: CANAL 5 HD
+#EXTINF:-1, 01 CANAL 5 HD
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
-#EXTINF:-1,#Name: iptvtools_1
+#EXTINF:-1, 02
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
-#EXTINF:-1,#Name: iptvtools_2
+#EXTINF:-1, 03 RAXATV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,#Name: CARTOON
+#EXTINF:-1, 04 CARTOON
 https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
-#EXTINF:-1,#Name: iptvtools_5
+#EXTINF:-1, 05 CARTOON RETRO
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-#EXTINF:-1,#Name: ESPN_HD
+#EXTINF:-1, 06 ESPN_HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
-#EXTINF:-1,#Name: ESPN2_HD
+#EXTINF:-1, 07 ESPN2_HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 #Name: iptvtools_9
+#EXTINF:-1, 08 WSCV
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
-#EXTINF:-1, #Name:SPACE
+#EXTINF:-1, 09 SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 
 ***********PELICULAS 1*********
 
-#EXTINF:-1,#Name: TV UNO 
+#EXTINF:-1, 10 TV UNO 
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,#Name: CANU
+#EXTINF:-1, 11 CANU
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,#Name: iptvtools_14
+#EXTINF:-1, 13 EVENTS
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
-#EXTINF:-1,#Name: iptvtools_17
+#EXTINF:-1, 14 TELECAFE
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,#Name: SKY NEWS
+#EXTINF:-1, 15 SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,#Name: DIA TV
+#EXTINF:-1, 16 DIA TV
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
-#EXTINF:-1, #Name: iptvtools_19
+#EXTINF:-1, 17 TIEMPO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
-#EXTINF:-1,#Name: NAT GEO
+#EXTINF:-1, 18 NAT GEO
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
 
 ***********ETRETENIMIENTO 1*********
 
 
-#EXTINF:-1, #Name: NAT GEO
+#EXTINF:-1, 19 NAT GEO
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
-#EXTINF:-1, #Name: FORO TV
+#EXTINF:-1, 20 FORO TV
 http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: GOLDEN HD
+#EXTINF:-1, 21  GOLDEN HD
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: TNT HD
+#EXTINF:-1, 22 TNT HD
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 23 IBLUPS
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8 #Name: 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 24 TELEPIN
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 25 SUM
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 26 NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
-#EXTINF:-1, #Name: EXTREMA TV
+#EXTINF:-1, 27 EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 28 CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 29 CANAL ?
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 30 CANAL 360
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8 
-#EXTINF:-1, #Name: HBTV
+#EXTINF:-1, 31  HBTV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 32 AZTECA 1
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 33 8TV
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 34 ENETRES
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1, #Name: iptvtools_22
+#EXTINF:-1, 35 CANAL 4
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
  
 *********************PELICULAS 21 *********
 
-#EXTINF:-1,#Name: iptvtools_39
+#EXTINF:-1, 36 COS
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 37 COS FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 38 CANAL FUTBOL
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 39 CANAL ?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 40 SUPER CANAL 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 41 CANAL ?
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,#Name: iptvtools_39
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1, #Name: iptvtools_39
+
+
+#EXTINF:-1, 42 UNO NUEVO
 https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8 
-#EXTINF:-1, #Name: UNICABLE
+
+#EXTINF:-1, 43 UNICABLE
 http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8 
-#EXTINF:-1, #Name: ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
-#EXTINF:-1, #Name: ESPN HD 2
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
-#EXTINF:-1, #Name SPACE
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1, #Name: TV UNO
+
+
+
+#EXTINF:-1, 44 TV UNO
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
-#EXTINF:-1, #Name: TNT
+
+#EXTINF:-1, 45 TNT
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
-#EXTINF:-1, #Name: NAT GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8 
-#EXTINF:-1, #Name: NAT GEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
-#EXTINF:-1, #Name: FORO TV HD
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: GOLDEN HD
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
-#EXTINF:-1, #Name: TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+
+
+#EXTINF:-1, 46 EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://200.115.193.177/live/26hd-720/.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+
+#EXTINF:-1, 47 CANAL ?
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 48 CANAL ?
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1, #Name: iptvtools_39
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+ 
+#EXTINF:-1, 49 CANAL COS FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u
-#EXTINF:-1, #Name: iptvtools_39
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+
+#EXTINF:-1, 50 DEFINIST
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 51 MIAMI TV USA
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
+#EXTINF:-1, 52 MIAMI TV MX
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8 
-#EXTINF:-1, #Name: iptvtools_39
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, 53 MIAMI TV CL
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+
 #EXTINF:-1, #Name: iptvtools_39
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1, #Name: iptvtools_39
